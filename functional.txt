@@ -1,0 +1,5 @@
+Functional requrements:
+Admin melakukan login
+Mampu melayani pemilihan barang
+melakukan pendaftaran
+pemesanan obat
