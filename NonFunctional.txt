@@ -1,0 +1,3 @@
+NonFunctional:
+Tampilannya di buat sesuai dengan pengguna 
+Kemudahan dalam meakses khususnya kepada orang yang masih awam akan internet
